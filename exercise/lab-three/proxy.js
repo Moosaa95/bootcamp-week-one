@@ -31,4 +31,4 @@ const Staff = {
 
 const proxyStaff = new Proxy(Staff, handler)
 
-console.log(proxyStaff.age = 44);
+console.log(proxyStaff.first_last);
