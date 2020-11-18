@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp-week-one",
+  "version": "1.0.0",
+  "description": "lab-3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moosaa95/bootcamp-week-one.git"
+  },
+  "author": "musa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moosaa95/bootcamp-week-one/issues"
+  },
+  "homepage": "https://github.com/Moosaa95/bootcamp-week-one#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
